@@ -1,0 +1,24 @@
+# Data files (too big for git; download via README instructions)
+data/*.xlsx
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+
+# Power BI temp files
+*.tmp.pbix
+*.pbix.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
