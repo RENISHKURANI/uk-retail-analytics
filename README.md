@@ -26,11 +26,11 @@ UCI Online Retail II — UK online retail transactions, Dec 2009 – Dec 2011.
 - [x] Q1 — Monthly revenue trend with year-over-year % change
 - [x] Q2 — Top 10 products by revenue with % of total
 
-### Day 2 (planned)
-- [ ] Q3 — RFM customer segmentation
-- [ ] Q4 — Country-level performance
-- [ ] Q5 — Time-of-day and day-of-week purchase patterns
-- [ ] Q6 — Returns analysis
+### Day 2 (complete)
+- [x] Q3 — RFM customer segmentation
+- [x] Q4 — Country-level performance
+- [x] Q5 — Time-of-day and day-of-week purchase patterns
+- [x] Q6 — Returns analysis
 
 ### Day 3 (planned)
 - [ ] Q7 — Customer cohort retention
